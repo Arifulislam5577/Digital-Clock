@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Work Sans;
+    background-color: #70a1ff;
+}
+
+
+.clock{
+    height: 200px;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 200px;
+    background-color: #1B1464;
+    border: 2px solid #fff;
+    box-shadow: 0px 1px 19px 14px rgba(0,0,0,0.29);
+}
+
+.digital-clock {
+	height: 100px;
+	width: 300px;
+	background-color: #000000;
+	margin: 50px auto;
+    border: 1px solid #ddd;
+    box-shadow: 0px 1px 19px 14px rgba(0,0,0,0.29);
+}
+.style{
+    color: #FFC312;
+    margin-top: 25px;
+    text-align: center;
+}
